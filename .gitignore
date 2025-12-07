@@ -1,0 +1,27 @@
+# Library folder (Unity caches all imported assets here)
+Library/
+
+# Temp folder
+Temp/
+
+# Build folders
+Build/
+Builds/
+
+# Auto-generated VS/IDE files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity cache
+Obj/
+*.svd
+*.pdb
+
+# Crash logs
+sysinfo.txt
